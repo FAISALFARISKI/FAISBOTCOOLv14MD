@@ -62,13 +62,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 - Contoh `worker: node . --db 'mongodb+srv://mongodb-bot:abcdefghij@zeeoneofc.aWpl9.mongodb.net/?retryWrites=true&w=majority'`
 
 ## For Termux
-```ts
-apt update && apt upgrade
-pkg install bash
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
-cd Alphabot-Md
-bash install.sh
-```
+- Download script MediaFire [Here](https://telegra.ph/Alphabot-Md-V14-08-02)
+- Cara install tonton Di [YouTube](https://youtu.be/ep_PM1PpEVg)
 
 ## Edit file
 `./settings.js`
