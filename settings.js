@@ -25,23 +25,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Putri-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Putristore×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "gak ada" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "FAIS-BOTz" //namabot kalian
+global.ownername= "FAIS" //nama kalian
+global.myweb ="https://linkfly.to/faisalfariski" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg" //bebas asal jan hapus
+global.myweb2 = "https://github.com/FAISALFARISKI" //bebas
+global.email = "faisalfariski2008@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285695710527'] //premium user
-global.owner = ["6285695710527","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285695710527" // nomor wa kalian
-global.ownernomerr = "+6285695710527" //nmr wa kalian
+global.premium = ['6283171790484'] //premium user
+global.owner = ["6283171790484","6283171790484"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283171790484" // nomor wa kalian
+global.ownernomerr = "+6283171790484" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Putri-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh Putristore' //sticker wm ganti nama kalian
+global.packname = '© FAIS-BOTz' //sticker wm ubah
+global.author = 'Di Buat Oleh FAISCOOLBOT' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
