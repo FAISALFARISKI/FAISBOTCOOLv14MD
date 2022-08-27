@@ -675,7 +675,7 @@ saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu FAIS-BOTz :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -1697,7 +1697,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
+Base : https://github.com/FAISALFARISKI/FAISBOTCOOLv14MD
 Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
 `
 }
@@ -1707,6 +1707,13 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+
+{DONATION}
+#Saweria:https://saweria.co/FaisAlfaRiski
+#pulsa:083171790484
+
+⚠️Dilarang DONASI/DONATION dengan cara lain selain saweria dan pulsa⚠️
+
 
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
