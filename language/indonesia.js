@@ -1711,6 +1711,7 @@ Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 {DONATION}
 #Saweria:https://saweria.co/FaisAlfaRiski
 #pulsa:083171790484
+#dana:083171790484
 
 ⚠️Dilarang DONASI/DONATION dengan cara lain selain saweria dan pulsa⚠️
 
